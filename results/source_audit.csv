@@ -1,0 +1,341 @@
+source_row,study,n_t_early_death,n_c_early_death,n_t_composite,n_c_composite,events_t_death,events_c_death,events_t_composite,events_c_composite,equal_denominators,event_counts_ordered,counts_valid,numeric_candidate,barer_shared_control,included_in_primary_conditional_analysis,endpoints_source_checked,overlap_source_checked,c1_c2_compared,source_note
+1,Barer 1988 atenolol,18,11,16,10,2.0,3.0,8,5,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,True,False,False,False,False,Review documents multi-arm Barer shared controls; not independent rows
+2,Barer 1988 propanolol,16,10,16,10,7.0,3.0,11,5,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,True,False,False,False,False,Review documents multi-arm Barer shared controls; not independent rows
+3,Barer 1988/50 mg,102,50,101,50,37.0,12.0,45,21,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,True,False,False,False,False,Review documents multi-arm Barer shared controls; not independent rows
+4,Barer 1988/80 mg,100,50,100,50,33.0,12.0,48,22,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,True,False,False,False,False,Review documents multi-arm Barer shared controls; not independent rows
+5,ASCLEPIOS 1990,116,114,116,114,21.0,19.0,47,44,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+6,Limburg 1990,12,14,12,14,3.0,5.0,3,7,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+7,Norris 1994,96,93,90,79,29.0,33.0,39,42,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
+9,Kaste 1994/120 mg,176,174,175,172,29.0,22.0,44,31,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
+10,Lowe 1993,56,56,40,46,15.0,12.0,25,18,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
+12,Squire 1996,75,72,69,63,12.0,17.0,32,32,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
+13,VENUS 1995,225,229,223,225,30.0,32.0,63,57,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
+14,IMAGES Pilot,26,25,26,25,3.0,6.0,12,11,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+15,Lees 1995,30,30,30,30,6.0,7.0,9,12,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+17,Strand 1984,13,13,13,13,2.0,3.0,6,9,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+18,PRISTINE,307,303,307,303,49.0,41.0,184,182,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+19,Steiner 1986,55,45,55,45,21.0,16.0,38,33,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,True,False,True,False,False,False,Package values only; per-trial observation sets and timings unverified
+21,Huczynski 1988,15,15,14,15,4.0,1.0,4,2,"<bound method DataFrame.eq of     source_row                studyID  st_D  ...     eq  valid    bar
+0            1    Barer 1988 atenolol   2.0  ...  False  False   True
+1            2  Barer 1988 propanolol   7.0  ...   True   True   True
+2            3       Barer 1988/50 mg  37.0  ...  False  False   True
+3            4       Barer 1988/80 mg  33.0  ...   True   True   True
+4            5         ASCLEPIOS 1990  21.0  ...   True   True  False
+5            6           Limburg 1990   3.0  ...   True   True  False
+6            7            Norris 1994  29.0  ...  False  False  False
+7            9      Kaste 1994/120 mg  29.0  ...  False  False  False
+8           10              Lowe 1993  15.0  ...  False  False  False
+9           12            Squire 1996  12.0  ...  False  False  False
+10          13             VENUS 1995  30.0  ...  False  False  False
+11          14           IMAGES Pilot   3.0  ...   True   True  False
+12          15              Lees 1995   6.0  ...   True   True  False
+13          17            Strand 1984   2.0  ...   True   True  False
+14          18               PRISTINE  49.0  ...   True   True  False
+15          19           Steiner 1986  21.0  ...   True   True  False
+16          21         Huczynski 1988   4.0  ...  False  False  False
+
+[17 rows x 27 columns]>",True,True,False,False,False,False,False,False,Package values only; per-trial observation sets and timings unverified
